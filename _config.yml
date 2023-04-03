@@ -1,8 +1,9 @@
+title: Xu-Xiang Li 黎旭翔
+description: A Ph.D. student from Peking University
+
 # set the theme
 # Cayman: https://github.com/pages-themes/cayman
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Xu-Xiang Li 黎旭翔
-description: A Ph.D. student from Peking University
